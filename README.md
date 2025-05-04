@@ -13,7 +13,7 @@ https://github.com/tesa-klebeband/RTL8720dn-Deauther
 https://github.com/adamff-dev/ESP8266-Captive-Portal
 https://github.com/dkyazzentwatwa/cypher-5G-deauther
 
-I am not good at coding but exited to learn
+I am not good at coding but exited to learn it
 
 Salam from,
 WFH
