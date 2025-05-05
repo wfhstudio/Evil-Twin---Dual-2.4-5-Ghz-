@@ -17,3 +17,14 @@ I am not good at coding but exited to learn it
 
 Salam from,
 WFH
+
+Cara pilih SSID, misalnya kita mau pilih HIMAN
+
+  ZTE
+>>HIMAN<<   <----- contoh yang akan dipilih
+
+1. Taruh kursor di "ZTE"
+2. Reset ESP32
+3. Pindahkan kursor turunkan dari "ZTE" ke "HIMAN"
+4. Naikkan kembali kursor "HIMAN" ke "ZTE"
+5. Tekan tombol Evil Twin
